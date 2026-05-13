@@ -1,0 +1,110 @@
+Privacy Policy for GoldOra
+
+Effective Date: January 1, 2026
+
+GoldOra ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the GoldOra mobile application, website, and services.
+
+By using GoldOra, you agree to the terms of this Privacy Policy.
+
+1. Information We Collect
+
+a. Personal Information
+When you create an account or place an order, we may collect:
+
+Your name
+Email address
+Mobile number
+Shipping and billing address
+Payment details (processed securely via third-party providers)
+
+b. Order & Jewellery Information
+We may collect:
+
+Order history
+Wishlist items
+Jewellery preferences
+Custom jewellery requests and uploaded design images
+
+c. Device & Usage Information
+We may collect:
+
+Device type and operating system
+IP address
+App usage data
+Performance and crash data
+2. How We Use Your Information
+
+We use your information to:
+
+Process and deliver orders
+Provide customer support
+Manage your account
+Improve app performance and user experience
+Send order updates and promotional offers
+Enhance security and prevent fraudulent activities
+3. Permissions We Use
+
+GoldOra may request the following permissions:
+
+Camera Access (to upload jewellery design references)
+Storage / Gallery Access (to select images)
+Internet Access (for app functionality and orders)
+Notification Access (for order updates and offers)
+
+These permissions are used only to provide app features. You can manage permissions anytime from your device settings.
+
+4. Data Sharing
+
+We do not sell, rent, or trade your personal information.
+
+We may share limited information only with:
+
+Payment gateway providers
+Delivery and logistics partners
+Customer support services
+Legal authorities if required by law
+5. Data Security
+
+We use industry-standard security measures to protect your information. However, no electronic transmission or storage system can be guaranteed 100% secure.
+
+6. Data Retention
+
+We retain your information only as long as necessary to provide services, process orders, comply with legal obligations, and resolve disputes.
+
+You may request deletion of your account and associated data at any time.
+
+7. Third-Party Services
+
+GoldOra may use third-party services such as:
+
+Payment gateways
+Google Sign-In
+Analytics tools
+Delivery tracking services
+
+These services operate under their own privacy policies.
+
+8. Your Rights
+
+You have the right to:
+
+Access your personal information
+Update or correct your data
+Request deletion of your account
+Opt out of promotional notifications
+Control app permissions from device settings
+9. Children's Privacy
+
+GoldOra is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+
+10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Continued use of GoldOra after updates means you accept the revised policy.
+
+11. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+
+📧 info@codebitinfotech.com
+
+📍 Surat, Gujarat, India
